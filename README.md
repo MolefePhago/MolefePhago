@@ -1,4 +1,4 @@
--👋 Hi, I’m @MolefePhago, a passionate software development student.
+-👋 Hi, I’m @MolefePhago, a passionate computer science student.
 
 -👀 I’m interested in exploring various programming languages, software development methodologies, and emerging technologies.
 
