@@ -1,7 +1,7 @@
 👋 Hey there! Welcome to my GitHub profile!
 
 🎓 About Me:
-I'm a dedicated computer science student with a profound interest in the art of software development. Currently pursuing my degree, I'm passionate about exploring the vast landscape of programming and creating elegant solutions to real-world problems.
+I'm a dedicated computer science student with a profound interest in the art of software development. I'm passionate about exploring the vast landscape of programming and creating elegant solutions to real-world problems.
 
 💻 What I Do:
 - I enjoy crafting clean and efficient code using languages like C#, Java, and JavaScript.
