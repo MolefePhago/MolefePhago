@@ -6,10 +6,10 @@ A computer science student passionate about software development. Eager to learn
 
 💻 What I Do:
 
-- I enjoy crafting clean and efficient code using languages like C#, Java, and JavaScript.
-- Delving into the realms of web development, including both front-end and back-end technologies.
-- Embracing agile methodologies to iteratively build and improve software products.
-- Constantly learning and experimenting with new tools, frameworks, and technologies to stay at the forefront of software engineering.
+-I enjoy crafting clean and efficient code using languages like C#, Java, and JavaScript.
+-Exploring into the realms of web development, including both front-end and back-end technologies.
+-Embracing agile methodologies to iteratively build and improve software products.
+-Constantly learning and experimenting with new tools, frameworks, and technologies to stay at the forefront of software engineering.
 
 🌱 Currently Learning:
 
